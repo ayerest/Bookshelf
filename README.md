@@ -1,11 +1,14 @@
 
 # Bookshelf App
 
+![Bookshelf Welcome Screen](https://github.com/ayerest/Bookshelf/blob/master/bookshelfsignin.png)
+
 Bookshelf helps users keep track of their books! 
 
 ## Features
 
 Bookshelf features include:
+
 * User login / signup screen
 * Automatic creation of Wishlist and Read Books shelves
 * Name and create custom shelves to store books
@@ -14,6 +17,8 @@ Bookshelf features include:
 * Delete a shelf
 * Rename and edit the description of an existing shelf
 * Get various stats about your shelves and books
+
+![Bookshelf Search Books/Author Screen and Results](https://github.com/ayerest/Bookshelf/blob/master/searchbook.png)
 
 ## Instructions
 
