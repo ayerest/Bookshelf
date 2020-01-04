@@ -1,9 +1,9 @@
 
 # Bookshelf App
 
-![Bookshelf Welcome Screen](https://github.com/ayerest/Bookshelf/blob/master/bookshelfsignin.png)
-
 Bookshelf helps users keep track of their books! 
+
+![Bookshelf Welcome Screen](https://github.com/ayerest/Bookshelf/blob/master/bookshelfsignin.png)
 
 ## Features
 
