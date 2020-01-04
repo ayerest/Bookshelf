@@ -23,6 +23,6 @@ Bookshelf features include:
 ## Instructions
 
 1. Fork and clone this repository.
-2. Navigate to project directory in your terminal and type 'rake db:migrate'
-3. Type 'rake run' into terminal
+2. Navigate to project directory in your terminal and type 'rake db:migrate'.
+3. Type 'rake run' into terminal.
 4. Create an account and follow terminal prompts to create and organize your shelves!
