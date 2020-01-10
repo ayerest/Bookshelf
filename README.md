@@ -26,3 +26,5 @@ Bookshelf features include:
 2. Navigate to project directory in your terminal and type 'rake db:migrate'.
 3. Type 'rake run' into terminal.
 4. Create an account and follow terminal prompts to create and organize your shelves!
+
+![Bookshelf Exit Screen](https://github.com/ayerest/Bookshelf/blob/master/thankyou.png)
